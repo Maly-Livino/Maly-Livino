@@ -1,16 +1,25 @@
-### Hi there 👋
+## Olá Me Chamo Yasmin Livino 
 
-<!--
-**Maly-Livino/Maly-Livino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/Maly-Livino)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Maly-Livino 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maly-Livino&show_icons=true&theme=radical)
+
+<div align="left">
+  <a href="https://github.com/Maly-Livino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+ 
+  <a href = "mailto:yasminlivino18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yasmin-livino-281b111b9/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <br>
+  
+</div>
+
+
+
+![snake gif](https://github.com/Maly-Livino/Maly-Livino/blob/output/github-contribution-grid-snake.svg)
